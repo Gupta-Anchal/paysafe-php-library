@@ -6,10 +6,10 @@ XAMPP/LAMP/WAMP Server installed.
 
 ### Steps to implement :
  
- STEP 1- Run paysafe-php-lib/sample/index.php
- STEP 2 - Enter netellerApiKey in config.php file.
- STEP 3 - For queries to get work, establish db connection using your phpmyadmin credentials in paysafe-php-lib/sample/index.php line 3.
- STEP 4 - You can either test transactions using details provided below OR change code file to enter your account details.
+ <b>STEP 1-</b> Run paysafe-php-lib/sample/index.php<br>
+ STEP 2 - Enter netellerApiKey in config.php file.<br>
+ STEP 3 - For queries to get work, establish db connection using your phpmyadmin credentials in paysafe-php-lib/sample/index.php line 3.<br>
+ STEP 4 - You can either test transactions using details provided below OR change code file to enter your account details.<br>
 
 ### Test Account Details :
 
