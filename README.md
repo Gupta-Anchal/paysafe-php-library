@@ -22,3 +22,7 @@ NETELLER Member TEST Account : <br/>
 Email - netellertest_USD@neteller.com <br/>
 Password - NTt3st1! <br/>
 Account ID - 454651018446 <br/>
+
+### LICENSE :
+
+This project is available under MIT Liscense. Read full <a href="https://github.com/anchal-gupta/paysafe-php-library/blob/master/LICENSE">details of License here.</a>
